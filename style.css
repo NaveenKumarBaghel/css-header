@@ -9,8 +9,8 @@ p {
 }
 
 #first {
-    color: blue;
-    background-color: yellow;
+    color: red;
+    background-color: #87CEEB;
     size: 50px;
     text-align: center;
     padding: 20px;
